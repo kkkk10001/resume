@@ -1,10 +1,25 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: 2019 부산대학교 프로그래밍 대회 3위(IEEE Chair상)
+  organization: Pusan National University
+  year: 2019
+  summary: 부산대학교 프로그래밍 대회 및 ACM-ICPC 교내 예선에서 3위의 성적을 거뒀습니다.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: 2020 부산대학교 프로그래밍 대회 1위(총장상)
+  organization: Pusan National University
+  year: 2020
+  summary: 2020 부산대학교 프로그래밍 대회 및 ACM-ICPC 교내 예선에서 1위의 성적을 거뒀습니다.
+
+- award: ACM-ICPC Seoul Regional 38th Place
+  organization: ACM-ICPC
+  year: 2020
+  summary: 부산대학교 대표로 참가하여, 2020 한국 대학생 프로그래밍 대회(ACM-ICPC Seoul Regional)에서 38위의 성적을 거뒀습니다.
+
+- award: 2021 부산대학교 프로그래밍 대회 1위(총장상)
+  organization: Pusan National University
+  year: 2021
+  summary: 2021 부산대학교 프로그래밍 대회 및 ACM-ICPC 교내 예선에서 1위를 하였습니다.
+
+- award: ACM-ICPC Seoul Regional 38th Place
+  organization: ACM-ICPC
+  year: 2021
+  summary: 부산대학교 대표로 참가하여, 2021 한국 대학생 프로그래밍 대회(ACM-ICPC Seoul Regional)에서 36위의 성적을 거뒀습니다.
