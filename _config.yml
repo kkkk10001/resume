@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "DoMyung Kim Resume"
+description: "DoMyung Kim Resume"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "김도명(DoMyung Kim)"
+resume_name:                    "DoMyung Kim(김도명)"
 resume_title:                   "Introduce"
 
 # used for the contact button in _layouts/resume.html
