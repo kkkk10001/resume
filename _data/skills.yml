@@ -1,7 +1,4 @@
 # Skills
-- description: 기초수준
-- skill: DX12 / Java / JavaScript
-- description: 취미수준
-- skill: OpenGL / WinApi / C++ / Shader Programming
-- description: 상용개발 가능수준
-- skill: C# / Unity / Algorithm & Data Structure
+- skill: 기초수준 - DX12 / Java / JavaScript
+- skill: 취미수준 - OpenGL / WinApi / C++ / Shader Programming
+- skill: 상용개발 가능수준 - C# / Unity / Algorithm & Data Structure
